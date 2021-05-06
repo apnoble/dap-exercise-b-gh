@@ -1,4 +1,4 @@
-This project was made using Visual Studio 2019 Community.
+This was made using Visual Studio 2019 Community.
 
 To run: 
 
