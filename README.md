@@ -7,3 +7,8 @@ To run:
 - Add your api token to the request parameters in the DataService class 
 
 - Run DAP-Exercise-B
+
+Output: 
+
+![alt text](DAPpage1.PNG "First Page of Results")
+![alt text](DAPpage2.PNG "Second Page of Results")
