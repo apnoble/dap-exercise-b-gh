@@ -1,5 +1,3 @@
-# dap-exercise-b-gh﻿
-
 This project was made using Visual Studio 2019 Community.
 
 To run: 
